@@ -1,0 +1,42 @@
+body {
+ background-color:#AAAAAA;
+/*margin: 0.5;
+    overflow: hidden;*/
+}
+
+#webgl{
+ /*border:solid 2px red;
+ margin-left: 0.5cm;
+ width:95%;
+ height:95%;*/
+ background-color:black;
+}
+
+.equipe1{
+    text-align: center;
+    border: 1px solid;
+    padding-left:1cm ;
+    padding-right: 1cm;
+    color: black;
+}
+.equipe2{
+    text-align: center;
+    border: 1px solid;
+    padding-left:1cm ;
+    padding-right: 1cm;
+    color: black;
+    
+
+}
+#Tete{
+    left: 48%;
+    top: 48%;
+    margin-left: -45%;
+    position: absolute;
+    margin-top: -25%;
+    
+
+}
+#leg{
+    color: black;
+}
